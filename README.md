@@ -1,4 +1,4 @@
-# Hello, I'm Vinod Kumar! 👋
+# Hello, I'm Vinod Kumar Suri! 👋
 ### Agentic AI Engineer | Multi-Agent Systems | AI Automation Architect
 
 <p align="left">
@@ -10,16 +10,12 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Professional Summary & Impact
+I am a results-driven **Agentic AI Engineer** with **3+ years of experience** designing, developing, and deploying production-grade LLM-powered business process automation, multi-agent systems, and AI-driven workflow solutions. 
 
-I am an **Agentic AI Engineer** specializing in designing and deploying production-ready **Multi-Agent Systems**, advanced **Retrieval-Augmented Generation (RAG)** architectures, and scalable **AI Automation Workflows**. 
+Specialized in building and deploying scalable AI architectures utilizing **LangChain**, **CrewAI**, **LangGraph**, **RAG (Retrieval-Augmented Generation)**, **MCP (Model Context Protocol)**, and **n8n workflows**, backed by secure, high-availability **AWS Serverless infrastructure**. 
 
-I bridge the gap between complex LLM capabilities and practical business processes, leveraging orchestrators like **CrewAI**, **LangGraph**, and **LangChain** alongside enterprise-grade cloud environments like **AWS Bedrock**.
-
-- 🔭 I’m currently building: **Production-grade multi-agent support and autonomous research platforms**.
-- 🧠 I’m learning: **Advanced agent evaluation methods, DSPy optimization, and custom MCP (Model Context Protocol) servers**.
-- 🤝 Collaboration: I’m open to contributing to open-source orchestrators (CrewAI, LangGraph) and developing custom agent tools.
-- ⚡ Fun Fact: Winner of the Accenture Hackathon & AI Short Film Competition.
+Proven track record of reducing manual effort by up to 70%, improving data processing speeds by 35%, and enhancing developer productivity.
 
 ---
 
@@ -73,11 +69,45 @@ I bridge the gap between complex LLM capabilities and practical business process
 
 ---
 
+## 💡 Key Projects
+
+### 🤖 **GenAssist** — *AI-Powered Workflow Automation Platform*
+**Tech Stack:** `Python`, `AWS Bedrock (Titan Embeddings)`, `AWS Lambda`, `AWS API Gateway`, `Amazon S3`, `AWS Transcribe`, `AWS Polly`
+- Built a multimodal AI assistant for business process automation leveraging **Titan Embeddings** for intent detection and entity extraction.
+- Developed a serverless execution pipeline featuring voice input/output via **AWS Transcribe** and **AWS Polly**, achieving a 70% reduction in manual handoffs for pilot workflows.
+
+### ⚙️ **Stack Overflow to Docker Generator** — *Agentic LLM Microservice Pipeline*
+**Tech Stack:** `Python`, `LangChain`, `CrewAI`, `FastAPI`, `AWS Lambda`, `Docker`
+- Designed an agentic LLM pipeline utilizing **LangChain** and **CrewAI** to automatically convert Stack Overflow code snippets into containerized, production-ready **Docker** microservices.
+- Reduced developer environment setup times by 50%, enabling rapid prototype execution and serverless orchestration.
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 **Accenture** — *Agentic AI Engineer* *(June 2024 – Present)*
+- Led development of production-grade multi-agent conversational frameworks using **CrewAI**, **LangChain**, **FastAPI**, and **Python** to automate workflows across business units.
+- Integrated advanced RAG systems (**FAISS**, **ChromaDB**) and neural semantic search, achieving 95%+ retrieval accuracy on enterprise datasets.
+- Built and maintained **n8n** automation workflows and AI orchestration pipelines, reducing manual handoffs by 70% in targeted processes.
+- Deployed LLM inference pipelines on **AWS Bedrock** and **EC2** using **Docker** containers, optimizing and reducing latency by 30%.
+- Introduced **GitHub Copilot**, **Copilot Chat**, and **Amazon Q** patterns with **MCP-style** context expansion to accelerate developer onboarding.
+- Implemented security-first CI/CD pipelines, lowering post-release incidents and aligning with data compliance governance.
+
+### 🏢 **Accenture** — *Java Full Stack Developer* *(January 2024 – June 2024)*
+- Delivered enterprise-scale full-stack applications using **Java** and **Spring Boot**, integrating REST APIs with front-end React apps under Agile/Scrum methodologies.
+- Applied AI-assisted debugging tools to accelerate defect resolution and improve cross-browser compatibility.
+
+### 🏢 **Accenture** — *Associate Software Engineer* *(June 2023 – January 2024)*
+- Contributed to AT&T's enterprise ordering platform, building **Spring Boot / Spring MVC** microservices to achieve a 30% cost reduction in operational processes.
+- Re-architected ETL data pipelines using **Python** and AWS serverless components, improving processing speed by 35% and cutting infrastructure costs by 20%.
+
+---
+
 ## 🏆 Achievements & Certifications
 
 ### 🥇 Achievements
-- **3rd Prize** | Accenture "Ctrl+Hack+Delete" Hackathon, Hyderabad (June 2025) - Built and demonstrated innovative Agentic AI workflows and developer enablement solutions.
-- **1st Prize & INR 40,000 Award** | Generative AI Short Film Competition (January 2023) - Showcased creative application of generative AI video & audio technologies.
+- **3rd Prize** | Accenture "Ctrl+Hack+Delete" Hackathon, Hyderabad (June 2025) - Created innovative Agentic AI workflows and developer enablement tools.
+- **1st Prize & INR 40,000 Award** | Generative AI Short Film Competition (January 2023) - Showcased creative applications of AI video and audio generation tools.
 
 ### 📜 Certifications
 - 🌐 **AWS Certified AI Practitioner** – Amazon Web Services
@@ -108,3 +138,10 @@ I bridge the gap between complex LLM capabilities and practical business process
 - **Instagram**: [@vinod.nex](https://instagram.com/vinod.nex)
 - **Portfolio**: [vinodkumar.dev](https://vinodkumar.dev)
 - **Email**: [surivinodkumar10@gmail.com](mailto:surivinodkumar10@gmail.com)
+
+---
+
+<!-- Hidden keywords/tags to maximize SEO discoverability in GitHub Search -->
+<!--
+Keywords: agentic-ai, multi-agent-systems, langchain, crewai, langgraph, aws-bedrock, amazon-bedrock, amazon-q, github-copilot, fastapi, n8n-workflows, RAG, retrieval-augmented-generation, vector-databases, chroma-db, faiss, prompt-engineering, aws-lambda, serverless, java, spring-boot, developer-tools, python-developer, ai-engineer, automation-architect
+-->
