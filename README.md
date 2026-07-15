@@ -2,9 +2,9 @@
 ### Agentic AI Engineer | Multi-Agent Systems | AI Automation Architect
 
 <p align="left">
-  <a href="https://linkedin.com/in/vinod-kumar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter/X" /></a>
-  <a href="mailto:vinod.kumar@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/vinodkumarsuri-ai/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/vinod.nex"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:surivinodkumar10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://profile-counter.glitch.me/Vinod-Nex/count.svg" alt="Visitor Counter" align="right" />
 </p>
 
@@ -67,7 +67,7 @@ I bridge the gap between complex LLM capabilities and practical business process
 
 ### 📬 Connect with Me
 
-- **LinkedIn**: [linkedin.com/in/vinod-kumar](https://linkedin.com/in/vinod-kumar)
-- **X / Twitter**: [@vinod_kumar_ai](https://twitter.com)
+- **LinkedIn**: [vinodkumarsuri-ai](https://www.linkedin.com/in/vinodkumarsuri-ai/)
+- **Instagram**: [@vinod.nex](https://instagram.com/vinod.nex)
 - **Portfolio**: [vinodkumar.dev](https://vinodkumar.dev)
-- **Email**: [vinod.kumar@example.com](mailto:vinod.kumar@example.com)
+- **Email**: [surivinodkumar10@gmail.com](mailto:surivinodkumar10@gmail.com)
